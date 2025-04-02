@@ -1,0 +1,7 @@
+numpy
+matplotlib
+qutip
+ipykernel
+# qiskit
+seaborn
+scipy
